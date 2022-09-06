@@ -94,11 +94,11 @@ body {
   }
   
   .one {
-  
+    grid-column: 1 / span 3;
   }
   
   .two {
-  
+   grid-column: 4 / span 3;
   }
   
   footer {
